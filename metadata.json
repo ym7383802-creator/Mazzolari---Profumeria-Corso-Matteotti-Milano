@@ -1,0 +1,6 @@
+{
+  "name": "Mazzolari - Profumeria Corso Matteotti Milano",
+  "description": "E-commerce e boutique digitale di Mazzolari in Corso Giacomo Matteotti 7, Milano. Profumi d'autore, fragranze di nicchia, ritiro in negozio e consegna.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
